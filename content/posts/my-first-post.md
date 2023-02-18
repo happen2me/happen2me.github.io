@@ -1,7 +1,6 @@
 ---
 title: "Hello Hugo"
 date: 2023-02-18T15:37:25+01:00
-draft: true
 ---
 
 # Hello Hugo
