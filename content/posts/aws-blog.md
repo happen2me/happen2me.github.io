@@ -4,6 +4,7 @@ date: 2021-12-07T00:00:00+01:00
 draft: false
 ---
 
+
 # Deploy an End-to-End Chinese Knowledge-based Dialogue System in a MLOps fashion on AWS
 
 Knowledge graph database structures data as nodes and vertex. It provides flexibility and allows diversity and heterogeneity in real-world data. However, managing and querying such databases requires professionality in understanding graph query language and the graph database itself. Luckily, natural language processing (NLP) technics can help both in creating graph databases and understanding users' queries. 
