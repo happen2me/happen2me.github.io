@@ -44,7 +44,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Yuanchun's log."
     author: Yuanchun Shen
     # author: ["Me", "You"] # multiple authors
 
@@ -60,7 +60,6 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
