@@ -87,7 +87,7 @@ params:
         - name: linkedin
           url: "https://www.linkedin.com/in/yuanchunshen"
         - name: cv
-          url: "cv.iloilo.one"
+          url: "https://cv.iloilo.one"
 
     editPost:
         URL: "https://github.com/happen2me/happen2me.github.io/tree/main/content"
